@@ -1,0 +1,7 @@
+﻿  3-10.cpp
+D:\Homework\Algorithm\Code\HW03\HW03\3-10\3-10.cpp(27,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Homework\Algorithm\Code\HW03\HW03\3-10\3-10.cpp(28,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Homework\Algorithm\Code\HW03\HW03\3-10\3-10.cpp(49,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Homework\Algorithm\Code\HW03\HW03\3-10\3-10.cpp(50,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Homework\Algorithm\Code\HW03\HW03\3-10\3-10.cpp(51,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  3-10.vcxproj -> D:\Homework\Algorithm\Code\HW03\HW03\x64\Debug\3-10.exe

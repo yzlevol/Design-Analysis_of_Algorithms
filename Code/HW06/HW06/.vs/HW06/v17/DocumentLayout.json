@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Homework\\Algorithm\\Code\\HW06\\HW06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2B89E36-742B-4996-8B1C-E280775476D1}|6-8\\6-8.vcxproj|D:\\Homework\\Algorithm\\Code\\HW06\\HW06\\6-8\\6-8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F2B89E36-742B-4996-8B1C-E280775476D1}|6-8\\6-8.vcxproj|solutionrelative:6-8\\6-8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73348DCE-19F3-4D9E-A1C7-E72AC38ECDAB}|6-4\\6-4.vcxproj|D:\\Homework\\Algorithm\\Code\\HW06\\HW06\\6-4\\6-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73348DCE-19F3-4D9E-A1C7-E72AC38ECDAB}|6-4\\6-4.vcxproj|solutionrelative:6-4\\6-4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "6-8.cpp",
+              "DocumentMoniker": "D:\\Homework\\Algorithm\\Code\\HW06\\HW06\\6-8\\6-8.cpp",
+              "RelativeDocumentMoniker": "6-8\\6-8.cpp",
+              "ToolTip": "D:\\Homework\\Algorithm\\Code\\HW06\\HW06\\6-8\\6-8.cpp",
+              "RelativeToolTip": "6-8\\6-8.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAkwDIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-25T11:36:09.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "6-4.cpp",
+              "DocumentMoniker": "D:\\Homework\\Algorithm\\Code\\HW06\\HW06\\6-4\\6-4.cpp",
+              "RelativeDocumentMoniker": "6-4\\6-4.cpp",
+              "ToolTip": "D:\\Homework\\Algorithm\\Code\\HW06\\HW06\\6-4\\6-4.cpp",
+              "RelativeToolTip": "6-4\\6-4.cpp",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAxwHQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-25T10:46:58.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

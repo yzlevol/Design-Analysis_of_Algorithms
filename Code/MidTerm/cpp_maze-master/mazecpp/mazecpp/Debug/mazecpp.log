@@ -1,0 +1,5 @@
+﻿  mazeoriginal.cpp
+D:\Homework\Algorithm\Code\MidTerm\cpp_maze-master\mazecpp\mazecpp\mazeoriginal.cpp(364,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Homework\Algorithm\Code\MidTerm\cpp_maze-master\mazecpp\mazecpp\mazeoriginal.cpp(361,9): warning C4101: “j”: 未引用的局部变量
+D:\Homework\Algorithm\Code\MidTerm\cpp_maze-master\mazecpp\mazecpp\mazeoriginal.cpp(361,6): warning C4101: “i”: 未引用的局部变量
+  mazecpp.vcxproj -> D:\Homework\Algorithm\Code\MidTerm\cpp_maze-master\mazecpp\Debug\mazecpp.exe
