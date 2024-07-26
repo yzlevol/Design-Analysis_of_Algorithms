@@ -1,3 +1,0 @@
-D:/Homework/Algorithm/Code/HW06/cmake-build-debug/CMakeFiles/HW06.dir
-D:/Homework/Algorithm/Code/HW06/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Homework/Algorithm/Code/HW06/cmake-build-debug/CMakeFiles/rebuild_cache.dir
